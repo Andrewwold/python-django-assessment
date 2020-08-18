@@ -21,7 +21,6 @@ DJANGO_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'rest_framework',
 
     # Useful template tags:
     # 'django.contrib.humanize',
